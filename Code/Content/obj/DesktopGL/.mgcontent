@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/background.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Bark.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Bird.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/BranchLeft.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/BranchRight.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/ControlsScreen.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Egg.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/foreground.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/gameFont.spritefont</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/GameOverScreen.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/HomeScreenBackground.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/LoadingBgSprite.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/LoadingSprite.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/player.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Woodcutter_attack1.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Woodcutter_attack2.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Woodcutter_cursor.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Woodcutter_Left.png</File>
+    <File>C:/Users/Nitin Kumar/Desktop/City/Computer Architecture/LJ/Lumberjack/Content/Graphics/Woodcutter_Right.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
